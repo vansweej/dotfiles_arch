@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-pamac install --no-confirm git-cli
+sudo pamac install --no-confirm github-cli
